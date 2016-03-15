@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GrizzlyColors</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="btnAbout">ABOUT</string>
+    <string name="author">Elisha Patterson</string>
+    <string name="date">March 12, 2016</string>
+    <string name="createdOn">Created On:</string>
+    <string name="authorTitle">Author:</string>
+</resources>
